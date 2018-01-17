@@ -2,6 +2,8 @@
 
 ## HP-41 ULTIMATE ALARM CLOCK
 
+**NOTE:** This program is part of the ISENE.ROM (https://github.com/isene/hp-41_isene-rom). The FOCAL listing can be found in the "src" folder of that project. Any updates and new version will be found there.
+
 The program that turns your HP-41CX (or 41C/CV with a time module) into
 the ultimate alarm clock. It gives your belowed calculator all the
 features of a very advanced alarm clock. It even lets you hear the time so
