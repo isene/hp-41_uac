@@ -76,3 +76,6 @@ useful to assign this function to SIN-1.
 
 To restart the daily alarms, execute WKR (Week-alarms Restart). It may be
 useful to assign this function to COS-1.
+
+## License
+This software is released into the Public Domain.
