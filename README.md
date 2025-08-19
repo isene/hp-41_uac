@@ -1,4 +1,4 @@
-<img src="img/uac_logo.svg" align="left" width="150" height="150" alt="UAC Logo">
+<img src="img/uac_logo.svg" align="left" width="150" height="150" alt="Ultimate Alarm Clock Logo">
 
 # hp-41_uac
 
